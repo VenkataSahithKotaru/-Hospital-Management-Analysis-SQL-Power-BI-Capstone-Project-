@@ -61,7 +61,7 @@ The goal is to demonstrate how healthcare data can be transformed into actionabl
 ---
 
 ## 📽️ Demo  
-🎥 **[Watch Project Demo Video:** (3min 14sec)  
+🎥 **[Watch Project Demo Video:** https://drive.google.com/file/d/1bLurOykq8MriONB36ukKA4HqLXH-XjPq/view?usp=drivesdk (3min 14sec)  
 > *A short walkthrough of the Power BI dashboards and insights.*
 
 ---
